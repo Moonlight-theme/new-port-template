@@ -37,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur nulla el
 <a alt="Abod1960" href="https://github.com/Abod1960">Abod1960</a> |
 
 
-[+ some awesome contributors](https://github.com/Moonlight-color-theme/new-port-template/graphs/contributors)
+[+ some awesome contributors](https://github.com/Moonlight-theme/new-port-template/graphs/contributors)
   
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/NXaOnPt.png"> Show your support</h2>
 
@@ -46,7 +46,7 @@ Give a ⭐️ if you like this port!
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/8zmDXkV.png"> License</h2>
 
 Copyright © 2022 [Abod1960](https://github.com/Abod1960)<br>
-This project is licensed under the [GNU General Public](https://github.com/Moonlight-color-theme/new-port-template/blob/main/LICENSE) license.<br>
+This project is licensed under the [GNU General Public](https://github.com/Moonlight-theme/new-port-template/blob/main/LICENSE) license.<br>
 ```Delete this section if there were no license```
 
 <div align= "center">
