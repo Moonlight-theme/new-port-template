@@ -2,7 +2,7 @@
     <img src="https://i.imgur.com/nVXWcZJ.png" width = 150rem/>
 </p>
 <br>
-<h2 align="center"> <b>New Moonlightic Port</b> </h2>
+<h2 align="center"> <b>New Moonlight Port</b> </h2>
 <p align="center">"The repo name" 🏕
 </p>
 
